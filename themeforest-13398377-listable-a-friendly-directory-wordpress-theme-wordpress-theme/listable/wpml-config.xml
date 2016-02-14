@@ -1,0 +1,12 @@
+<wpml-config>
+	<admin-texts>
+		<key name="listable_options">
+			<key name="footer_copyright" />
+		</key>
+		<key name="listable_permalinks_settings">
+			<key name="listing_base" />
+			<key name="category_base" />
+			<key name="tag_base" />
+		</key>
+	</admin-texts>
+</wpml-config>
